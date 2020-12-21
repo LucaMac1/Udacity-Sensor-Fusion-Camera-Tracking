@@ -12,7 +12,7 @@ The idea of the camera course is to build a collision detection system - that's 
 See the classroom instruction and code comments for more details on each of these parts. Once you are finished with this project, the keypoint matching part will be set up and you can proceed to the next lesson, where the focus is on integrating Lidar points and on object detection using deep-learning. 
 
 ## Dependencies for Running Locally
-* cmake >= 2.8
+* cmake >= 3.16
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
   * Linux: make is installed by default on most Linux distros
